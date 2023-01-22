@@ -2,7 +2,7 @@
 
 Disini terdapat kumpulan perintah dasar git diantaranya
 
-1.  <a href="https://github.com/muchfahmiarif/learning-git-and-github/blob/main/git-init.md" target="_blank">Initalization git</a>
+1.  [Initalization git](git-init.md#initialization-git)
 2.  [Branching and merging](/git-branch-and-merge.md)
 3.  Merging
 4.  Rebase
