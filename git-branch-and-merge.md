@@ -4,6 +4,7 @@
 
 1. Lakukan initializati repo dengan menggunakan perintah `git init` yang ada [disini](#initialization-git-on-repository)
 2. Ketik perintah `git branch` pada terminal untuk melihat kursor repo kita yang ditunjukan pada tulisan **`Head`**
+
    ![git branch <nama_branch>](https://cdn.statically.io/img/i.ibb.co/KD5Lk9N/2023-01-22-10-22.png)
 
 3. Untuk menambahkan branch dengan menggunakan perintah `git branch <nama_branch>`
@@ -31,7 +32,9 @@
 
 5. Lakukan `git checkout <nama_branch>` untuk memindahkan kursor **`head`** pada branch yang mau kita tentukan
    ![memindahkan kursor head](https://cdn.statically.io/img/i.ibb.co/jDHgbBY/2023-01-22-11-17.png)
+
    maka kursor **`Head`** akan begerak pada branch yang kita tentukan
+
    ![memindahkan kursor head](https://cdn.statically.io/img/i.ibb.co/LJhCVJr/2023-01-22-11-19.png)
 
 6. Lakukan `commit` pada branch tersebut dan akan nampak perubahan seperti gambar dibawah ini
