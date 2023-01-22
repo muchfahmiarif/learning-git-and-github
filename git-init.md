@@ -1,5 +1,3 @@
-# Materi Git
-
 ## Initialization git
 
 #### Git Command (local)
@@ -30,7 +28,7 @@ $ git help
 
 Tahap initialization folder menjadi repo git ada 2 cara diantaranya :
 
-| Dengan menggunakan `git add`       | ==Tanpa== menggunakan `git add`      |
+| Dengan menggunakan `git add`       | **Tanpa** menggunakan `git add`      |
 | ---------------------------------- | ------------------------------------ |
 | `$ git init`                       | `$ git init`                         |
 | `$ git add .` or `git add <files>` | `$ git commit -am "isi pesan commit` |
