@@ -35,12 +35,3 @@ Tahap initialization folder menjadi repo git ada 2 cara diantaranya :
 | `$ git init`                       | `$ git init`                         |
 | `$ git add .` or `git add <files>` | `$ git commit -am "isi pesan commit` |
 | `$ commit -m "isi pesan commit"`   |                                      |
-
-## Git branch and merge
-
-#### Langkah untuk melakukan branch pada repo di lokal
-
-1. Lakukan initializati repo dengan menggunakan perintah `git init` yang ada [disini](#initialization-git-on-repository)
-2. Ketik perintah `git branch` pada terminal untuk melihat kursor repo kita yang ditunjukan pada tulisan **`Head`**
-
-![git branch <nama_branch>](https://cdn.statically.io/img/i.ibb.co/KD5Lk9N/2023-01-22-10-22.png)
