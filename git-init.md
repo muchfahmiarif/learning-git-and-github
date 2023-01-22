@@ -24,7 +24,7 @@ $ git help
 [^staging-area]: Kasih tau git kalau kalian telah melakukan perubahan
 [^history]: Setelah melakukan commit akan masuk ke history
 
-![3 area pada repo git](https://cdn.statically.io/img/i.ibb.co/HP32tGG/2023-01-22-00-45.png)
+![3 area pada repo git](https://cdn.statically.io/img/i.ibb.co/w=50/HP32tGG/2023-01-22-00-45.png)
 
 #### Initialization git on repository
 
@@ -38,6 +38,9 @@ Tahap initialization folder menjadi repo git ada 2 cara diantaranya :
 
 ## Git branch and merge
 
-#### Langkah untuk melakukan branch pada git
+#### Langkah untuk melakukan branch pada repo di lokal
 
-1. Lakukan perintah `git init` yang ada [disini](#Materi-git)
+1. Lakukan initializati repo dengan menggunakan perintah `git init` yang ada [disini](#initialization-git-on-repository)
+2. Ketik perintah `git branch` pada terminal untuk melihat kursor repo kita yang ditunjukan pada tulisan **`Head`**
+
+![git branch <nama_branch>](https://cdn.statically.io/img/i.ibb.co/KD5Lk9N/2023-01-22-10-22.png)
