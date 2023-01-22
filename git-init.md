@@ -40,4 +40,4 @@ Tahap initialization folder menjadi repo git ada 2 cara diantaranya :
 
 #### Langkah untuk melakukan branch pada git
 
-1. Lakukan perintah `git init` yang ada [disini](#Initialization-git-on-repository)
+1. Lakukan perintah `git init` yang ada [disini](#Materi-git)
